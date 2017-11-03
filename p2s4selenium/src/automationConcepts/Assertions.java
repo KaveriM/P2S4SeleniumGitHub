@@ -11,6 +11,7 @@ import org.testng.Assert;
 
 public class Assertions 
 {
+	//change code
 	WebDriver driver = null;
 	 public void launchApplication(String sBrowserType,String sURL)
 	  {
