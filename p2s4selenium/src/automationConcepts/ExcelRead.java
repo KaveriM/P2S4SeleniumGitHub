@@ -15,7 +15,7 @@ import jxl.write.WritableSheet;
 import jxl.write.WritableWorkbook;
 import jxl.write.WriteException;
 import jxl.write.biff.RowsExceededException;
-
+ //using  poi jar
 public class ExcelRead
 {
     int col,Column_Count,Row_Count;
